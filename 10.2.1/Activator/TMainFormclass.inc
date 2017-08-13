@@ -1,0 +1,1 @@
+TMainForm = class; PMainForm = TMainForm;
