@@ -117,7 +117,7 @@ const
 
 const
   defAppMessage        = 'Based on the hard work of unis, x-force, cjack. 3x ;>';
-  defAppVersion         = '14.1';
+  defAppVersion         = '14.3';
 
   defAppHelperFileName  = 'SHFolder.dll';
 
