@@ -1,0 +1,1 @@
+TMainForm = class(TObj)
